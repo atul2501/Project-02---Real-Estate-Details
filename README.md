@@ -90,4 +90,4 @@ chrome_options.add_argument("--disable-features=NetworkService")
 
 ### 👨‍💻 Author
 
-Made with ❤️ by [Github]([www.github.com/atul2501](https://github.com/atul2501))
+Made with ❤️ by [@atul2501](https://github.com/atul2501)
