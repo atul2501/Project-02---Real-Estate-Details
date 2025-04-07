@@ -54,7 +54,7 @@ try:
 except:
 	print("Timeout while locating Search Bar.\n")
 else:
-	search_bar.send_keys("Chennai")
+	search_bar.send_keys("Thane")
 	time.sleep(2)
 
 # selecting valid option from list
@@ -293,5 +293,5 @@ df_properties = (
 		"area": "area_sqft"
 	})
 	.reset_index(drop=True)
-	.to_excel("chennai-properties-99acres.xlsx", index=False)
+	.to_csv("thane-properties-99acres.csv", index=False)
 )
