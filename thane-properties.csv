@@ -1,4 +1,5 @@
 name,location,price_lakhs,area_sqft,bhk,is_starred
+regency towers,"anand nagar, thane",180.0,1550,3,0
 courtyard rozanne,"pokhran 2, thane",350.0,1268,3,0
 courtyard ivy,"majiwada, thane",225.0,838,2,0
 piramal vaikunth,"balkum, thane",133.0,529,2,1
@@ -18,3 +19,597 @@ vijay annex 29 no tower,"waghbil, thane west",175.0,935,3,0
 kalpataru paramount,"balkum, thane",162.0,1220,2,0
 hawa mahal,"bhavani nagar, thane west",138.0,765,2,0
 serein by tata housing,"pokhran 2, thane",320.0,1168,3,1
+rustomjee azziano,"majiwada, thane",206.99999999999997,951,3,1
+piramal vaikunth,"balkum, thane",216.0,950,3,1
+acme ozone,"manpada, thane",190.0,1350,3,1
+vijay orion,"kavesar, thane west",311.0,3140,4,0
+kalpataru paramount,"balkum, thane",145.0,672,2,0
+unnathi woods phase 3,thane west,66.0,430,1,0
+raunak unnathi woods phase 6,thane west,90.0,650,2,1
+rustomjee azziano,"majiwada, thane",145.0,746,2,1
+florence by satguru lifespaces,"ghodbunder road, thane",131.0,1099,2,1
+green acres phase 3,"waghbil, thane west",63.0,470,1,0
+vijay galaxy,"vijay nagari, thane west",75.0,669,1,1
+neelkanth palms,"kapurbawadi, thane west",140.0,610,2,1
+serein by tata housing,"pokhran 2, thane",300.0,965,3,1
+lodha splendora,"ghodbunder road, thane",140.0,1400,3,1
+tribeca chs,"hiranandani estate, thane",360.0,1196,3,0
+vijay vatika,"anand nagar, thane",78.0,950,2,0
+shubharambha chs,"manpada, thane",97.0,1050,2,0
+rosa manhattan,"hiranandani estate, thane",209.0,911,3,1
+siddhi highland springs,"dhokali, thane west",112.00000000000001,635,2,0
+rosa manhattan,"hiranandani estate, thane",210.0,965,3,1
+everest world apartment,thane west,210.0,1100,4,0
+kalpataru paramount,"balkum, thane",160.0,711,2,0
+lodha sterling,thane west,190.0,822,2,1
+piramal vaikunth,"balkum, thane",219.0,1100,2,1
+r w devashree park,"dustrial area, thane west",140.0,1207,3,0
+rustomjee aurelia,"majiwada, thane",135.0,650,2,1
+rosa manhattan,"hiranandani estate, thane",158.0,750,2,1
+meet ashok smruti,"ghodbunder road, thane",92.0,1099,2,1
+regency towers,thane west,178.0,1550,3,1
+raunak unnathi woods phase 3,"ghodbunder road, thane",94.0,1027,2,0
+park view,"ghodbunder road, thane",98.0,1027,2,1
+lodha casa viva,"majiwada, thane",80.0,454,1,1
+puranik city phase 3,"kasar vadavali, thane",55.0,550,1,1
+piramal vaikunth,"balkum, thane",150.0,708,2,1
+kalpataru paramount,"balkum, thane",150.0,1010,2,0
+hiranandani estate astoria,"patlipada, thane west",85.0,465,1,0
+hiranandani eagleridge,"hiranandani estate, thane",375.0,1160,3,0
+hiranandani rodas enclave fedora,"hiranandani estate, thane",118.0,695,1,0
+palacia apartment,"waghbil, thane west",120.0,900,2,0
+piramal vaikunth,"balkum, thane",99.0,511,2,1
+ashar axis,"majiwada, thane",155.0,656,2,0
+piramal vaikunth,"balkum, thane",91.0,454,2,1
+piramal vaikunth,"balkum, thane",318.0,2250,3,1
+piramal vaikunth,"balkum, thane",120.0,568,2,1
+piramal vaikunth,"balkum, thane",112.00000000000001,560,2,1
+piramal vaikunth,"balkum, thane",250.0,1175,4,1
+hiranandani solitaire,"hiranandani estate, thane",92.0,628,1,0
+prestige garden,thane west,180.0,685,2,0
+hiranandani eagleridge,"hiranandani estate, thane",370.0,1450,3,0
+piramal vaikunth,"balkum, thane",125.0,675,2,1
+hiranandani delanna,"hiranandani estate, thane",189.0,705,2,1
+runwal plaza anand tower,"vartak nagar, thane west",140.0,900,3,0
+hiranandani estate,thane west,175.0,1015,2,0
+courtyard florence,"majiwada, thane",450.0,2000,3,0
+dynamix parkwoods,"ghodbunder road, thane",130.0,693,2,1
+cosmos jewels,"anand nagar, thane",125.0,702,2,1
+piramal vaikunth,"balkum, thane",120.0,1050,2,1
+hiranandani estate cardinal,"hiranandani estate, thane",260.0,905,3,1
+kalpataru paramount,"balkum, thane",155.0,711,2,0
+ace homes,"ghodbunder road, thane",112.00000000000001,581,2,0
+piramal vaikunth,"balkum, thane",138.0,568,2,1
+lodha splendora,"ghodbunder road, thane",155.0,1400,3,1
+everest world apartment,"kolshet road, thane",120.0,700,2,0
+akanksha pioneer,"vartak nagar, thane west",125.0,750,2,0
+hiranandani estate spenta,"hiranandani estate, thane",272.0,1020,3,0
+akashganga complex,"kavesar, thane west",94.0,640,2,0
+vraj green valley,"dustrial area, thane west",110.00000000000001,950,2,0
+piramal vaikunth,"balkum, thane",165.0,1080,2,1
+metropolis rivera,"kasar vadavali, thane",120.0,1000,2,0
+rutu city richmond,thane west,128.0,1050,2,1
+vijay vilas,"ghodbunder road, thane",87.0,650,2,0
+rustomjee azziano,"majiwada, thane",128.0,697,2,1
+puraniks aarambh,"kasar vadavali, thane",54.0,685,1,0
+kalpataru hills,"manpada, thane",155.0,1225,2,1
+ashar sapphire and galleria,thane west,150.0,1373,2,1
+lodha casa ultima,"chirak nagar, thane west",103.0,840,2,1
+gala pride presidency luxuria,"manpada, thane",160.0,879,3,0
+jangid galaxy,"kavesar, thane west",140.0,1260,2,0
+crown thane lodha quality homes,"majiwada, thane",92.0,502,2,1
+lodha stella,"majiwada, thane",370.0,1422,3,0
+the mahavir square thane w,thane west,130.0,1220,2,0
+dosti imperia,"manpada, thane",275.0,1835,3,1
+dosti imperia,"manpada, thane",265.0,1654,3,1
+dosti majesta,"manpada, thane",425.0,2200,4,0
+dosti imperia,"manpada, thane",254.99999999999997,1654,3,1
+rustomjee azziano,"majiwada, thane",204.99999999999997,991,3,1
+piramal vaikunth,"balkum, thane",140.0,708,2,1
+piramal vaikunth,"balkum, thane",111.00000000000001,568,2,1
+piramal vaikunth,"balkum, thane",220.00000000000003,950,3,1
+one hiranandani park,"hiranandani estate, thane",130.0,470,1,1
+gala pride presidency luxuria,"manpada, thane",135.0,730,2,0
+dosti west county,"balkum, thane",98.0,556,2,1
+dosti cedar,"balkum, thane",128.0,744,2,0
+immensa by kalpataru,"kolshet road, thane",392.0,1754,4,0
+dosti imperia,"manpada, thane",283.0,1835,3,1
+lodha paradise,"ath nagar, majiwada",114.99999999999999,1062,2,1
+puraniks aarambh,"kasar vadavali, thane",80.0,546,2,0
+kanakia eternity,"teen hath naka, thane west",300.0,1350,3,0
+nakshatra chs,thane west,229.99999999999997,1100,3,0
+neelkhanth greens,"manpada, thane",200.0,850,2,0
+unique greens,"kavesar, thane west",117.0,1100,2,1
+deep auralis the twins,"teen hath naka, thane west",300.0,1200,3,1
+vfva towers,"majiwada, thane",135.0,750,2,0
+mittal park,"teen hath naka, thane west",250.0,950,3,0
+pride presidency luxuria,"dhokali, thane west",169.0,879,2,0
+serein by tata housing,"pokhran 2, thane",195.0,692,2,1
+parkwood thane west,"parkwoods, thane west",75.0,450,1,0
+rosa oasis,"hiranandani estate, thane",84.0,675,1,1
+mahavir kalpvruksha,"kasar vadavali, thane",87.0,625,2,0
+vijay vatika,"ghodbunder road, thane",77.0,650,2,0
+vijay vilas,"kavesar, thane west",90.0,650,2,0
+raunak unnathi woods phase 6,"ghodbunder road, thane",90.0,625,2,1
+kanakia niharika,"pokhran 2, thane",170.0,1035,2,1
+tata glendale,"pokhran 2, thane",229.99999999999997,1300,3,0
+hubtown greenwood,"vartak nagar, thane west",140.0,840,2,1
+kanakia vasundhara,"lok upvan, manpada",180.0,1050,3,0
+acme ozone,"manpada, thane",195.0,1285,3,1
+ashar edge,"pokhran 2, thane",165.0,950,2,1
+pride park manpada,"manpada, thane",145.0,680,2,0
+hiranandani lake enclave,"hiranandani estate, thane",461.00000000000006,1196,3,1
+hiranandani whitefield,"manpada, thane",395.0,1400,3,0
+hiranandani estate cardinal,"hiranandani estate, thane",260.0,903,3,1
+deep auralis the twins,"teen hath naka, thane west",335.0,1500,4,1
+hiranandani amanda shopping,"hiranandani meadows, manpada",305.0,1050,3,0
+acme gingelia,"manpada, thane",150.0,675,2,0
+cosmos jewels,"anand nagar, thane",75.0,720,1,1
+hiranandani rodas enclave phillipa,"hiranandani estate, thane",425.0,1895,3,0
+kabra shubharambh chs,"manpada, thane",95.0,620,2,0
+larkins pride palms,"kolshet, thane west",84.0,450,1,1
+harasiddh park,"vasant vihar, thane west",96.0,1000,1,1
+kalpataru siddhachal 4,"vasant vihar, thane west",190.0,880,3,0
+dosti vihar,"samata nagar, thane west",76.0,420,1,1
+dosti vihar,"samata nagar, thane west",79.0,420,1,1
+dosti vihar,"samata nagar, thane west",195.0,900,3,1
+dosti vihar,"samata nagar, thane west",88.0,450,1,1
+dosti vihar,"samata nagar, thane west",160.0,707,3,1
+dosti vihar,"samata nagar, thane west",149.0,700,2,1
+dosti vihar,"samata nagar, thane west",160.0,720,3,1
+dosti vihar,"samata nagar, thane west",176.0,900,3,1
+dosti vihar,"samata nagar, thane west",78.0,420,1,1
+dosti vihar,"samata nagar, thane west",80.5,420,1,1
+dosti vihar,"samata nagar, thane west",81.75,420,1,1
+dosti vihar,"samata nagar, thane west",130.0,600,2,1
+dosti vihar,"samata nagar, thane west",81.5,420,1,1
+dosti vihar,"samata nagar, thane west",151.0,700,2,1
+dosti vihar,"samata nagar, thane west",150.0,700,2,1
+dosti vihar,"samata nagar, thane west",82.0,420,1,1
+ashar axis,"majiwada, thane",167.0,1050,2,0
+vijay garden,"kavesar, thane west",55.0,650,1,1
+tropical lagoon,"anand nagar, thane",159.0,1295,2,0
+puranik city phase 3,"kasar vadavali, thane",51.0,650,1,1
+hiranandani lake enclave,"hiranandani estate, thane",450.0,1700,3,1
+lodha sterling,thane west,295.0,1850,3,1
+piramal vaikunth,"balkum, thane",152.0,708,2,1
+bharat shiv sai paradise,"majiwada, thane",173.0,1450,3,0
+highland springs,"dhokali, thane west",106.0,950,2,0
+highland gardens,"dhokali naka, thane west",123.0,1100,2,0
+piramal vaikunth,"balkum, thane",148.0,1000,2,1
+rustomjee azziano,"majiwada, thane",136.0,858,2,1
+lodha quality homes,"majiwada, thane",82.0,550,2,0
+lodha sterling,thane west,184.0,1350,2,1
+lalani residency,"ghodbunder road, thane",98.0,975,2,1
+serein by tata housing,"pokhran 2, thane",265.0,1066,3,1
+jvm veda,"kasar vadavali, thane",95.0,680,2,0
+dreams kaveri heights,"kharegaon, kalwa, thane",110.00000000000001,950,2,0
+soham crystal spires,thane west,212.0,1200,2,0
+crown thane lodha quality homes,"majiwada, thane",80.0,475,2,1
+piramal vaikunth,"balkum, thane",160.0,711,2,1
+piramal vaikunth,"balkum, thane",155.0,568,2,1
+hiranandani aralia,"hiranandani estate, thane",385.0,1450,3,0
+piramal vaikunth,"balkum, thane",125.0,568,2,1
+lodha splendora,"ghodbunder road, thane",110.00000000000001,1050,2,1
+hiranandani lavinia,"hiranandani estate, thane",95.0,421,1,1
+one hiranandani park,"hiranandani estate, thane",400.0,1512,3,1
+rosa manhattan,"hiranandani estate, thane",220.00000000000003,1265,3,1
+rosa manhattan,"hiranandani estate, thane",148.0,992,2,1
+"neelkanth lakeview, pokhran 1 and 2","pokhran 2, thane",450.0,1808,4,0
+neelkanth lakeview,"pokhran 2, thane",350.0,1326,3,0
+neelkanth heights,"devdaya nagar , thane west",300.0,1050,3,0
+new suraj tower,"vartak nagar, thane west",125.0,850,2,0
+tribeca chs,"hiranandani estate, thane",370.0,1765,3,0
+polaris apartments,"hiranandani estate, thane",149.0,870,2,0
+hiranandani silver link,"hiranandani estate, thane",114.99999999999999,630,1,0
+piramal vaikunth,"balkum, thane",160.0,699,2,1
+piramal vaikunth,"balkum, thane",158.0,708,2,1
+piramal vaikunth,"balkum, thane",125.0,581,2,1
+one hiranandani park,"hiranandani estate, thane",165.0,750,2,1
+immensa by kalpataru,"kolshet road, thane",127.0,1050,2,0
+everest world apartment,thane west,132.0,1150,3,0
+piramal vaikunth,"balkum, thane",151.0,708,2,1
+greeshma residency 2,thane west,240.0,861,3,0
+kalpataru paramount,"balkum, thane",155.0,725,2,0
+hiranandani lake enclave,"hiranandani estate, thane",450.0,1200,3,1
+hiranandani rodas enclave,"hiranandani estate, thane",425.0,13000,3,1
+piramal vaikunth,"balkum, thane",215.0,1550,3,1
+dosti cedar,"balkum, thane",210.0,1750,3,0
+piramal vaikunth,"balkum, thane",110.00000000000001,560,2,1
+hiranandani skylark enclave,"hiranandani estate, thane",220.00000000000003,840,2,1
+hiranandani skylark enclave,"hiranandani estate, thane",320.0,1298,3,1
+the icon by risland,"dhokali, thane west",120.0,672,2,1
+lodha casa viva,"majiwada, thane",118.0,677,2,1
+raymond realty ten x habitat,"pokhran 2, thane",160.0,700,2,0
+v r supernal garden,"dhokali, thane west",114.99999999999999,1150,2,0
+ashar axis,"majiwada, thane",164.0,696,2,0
+hiranandani solitaire,"hiranandani estate, thane",95.0,480,1,0
+hiranandani rodas enclave phillipa,"hiranandani estate, thane",430.0,2454,3,0
+hiranandani the walk,"hiranandani estate, thane",100.0,500,1,1
+hiranandani aralia,"hiranandani estate, thane",409.99999999999994,1250,3,0
+vijay residency,"kavesar, thane west",139.0,1450,3,0
+kalpataru paramount,"balkum, thane",120.0,531,2,0
+piramal vaikunth,"balkum, thane",114.99999999999999,568,2,1
+larkins pride palms,"kolshet, thane west",145.0,730,2,1
+kabra galaxy star chs,"brahmand, thane west",242.0,1800,3,1
+raunak unnathi woods phase 7,"ghodbunder road, thane",65.0,640,1,0
+everest world apartment,thane west,142.0,1350,3,0
+vijay orion,"kavesar, thane west",350.0,2500,4,1
+prescon gardenia and azelia,"kavesar, thane west",100.0,700,2,0
+lodha splendora,"ghodbunder road, thane",106.0,1050,2,1
+the mahavir square thane,thane west,199.0,1350,3,0
+crown thane lodha quality homes,"majiwada, thane",95.0,503,2,1
+crown thane lodha quality homes,"majiwada, thane",85.0,503,2,1
+crown thane lodha quality homes,"majiwada, thane",98.0,503,2,1
+crown thane lodha quality homes,"majiwada, thane",97.0,503,2,1
+rustomjee azziano,"majiwada, thane",155.0,1150,2,1
+dosti cedar,"balkum, thane",129.0,747,2,0
+rustomjee azziano,"majiwada, thane",124.0,703,2,1
+raymond realty ten x habitat,"pokhran 2, thane",160.0,670,2,0
+raunak unnathi woods phase 1 and 2,"anand nagar, thane",90.0,625,2,1
+florence by satguru lifespaces,"ghodbunder road, thane",125.0,676,2,1
+eros chs,"hiranandani estate, thane",90.0,450,1,0
+sahil pride residency,thane west,88.0,640,2,0
+r w devashree park,"dustrial area, thane west",120.0,450,2,0
+devashree park chs ltd,"kolshet road, thane",154.0,1350,3,0
+devashree park chsl,"dhokali, thane west",155.0,1345,3,0
+dosti oak,"balkum, thane",120.0,640,2,0
+kalpataru paramount,"balkum, thane",139.0,1100,2,0
+highland haven,"balkum, thane",130.0,700,2,1
+vihang valley phase 2,thane west,75.0,586,2,0
+acme ozone,"manpada, thane",200.0,1100,3,1
+jangid galaxy,"kavesar, thane west",285.0,2900,5,0
+lodha casa royale,"majiwada, thane",140.0,850,3,0
+regency heights,thane west,165.0,1165,2,1
+rustomjee azziano,"majiwada, thane",125.0,701,2,1
+rustomjee azziano,"majiwada, thane",123.0,700,2,1
+regency towers,thane west,190.0,1550,3,1
+dosti vihar,"samata nagar, thane west",125.0,600,2,1
+kalika towers,"uthalsar, thane west",60.0,450,1,0
+tropical lagoon,"anand nagar, thane",210.0,1695,3,0
+lodha amara,"kolshet road, thane",72.0,446,1,0
+crown thane lodha quality homes,"majiwada, thane",96.0,502,2,1
+eversmile jasmine towers,"vasant vihar, thane west",180.0,1000,2,0
+madhav palacia,"hiranandani estate, thane",84.0,438,1,1
+orovia phase 1,"hiranandani estate, thane",80.0,450,1,1
+hiranandani solitaire b,thane west,105.0,329,1,0
+vijay residency,"kavesar, thane west",140.0,1450,3,0
+the icon by risland,"dhokali, thane west",245.00000000000003,1031,3,1
+the icon by risland,"dhokali, thane west",240.0,1031,3,1
+hiranandani eagleridge,"hiranandani estate, thane",360.0,1093,3,0
+hiranandani eagleridge,"hiranandani estate, thane",350.0,999,3,0
+rosa oasis,"hiranandani estate, thane",137.0,635,2,1
+bhoomi acres,"hiranandani estate, thane",82.0,500,1,1
+hiranandani rodas enclave,"hiranandani estate, thane",434.99999999999994,1352,3,1
+jvm veda,"kasar vadavali, thane",99.0,975,2,0
+hiranandani estate avila,"hiranandani estate, thane",170.0,875,2,0
+highland park,"kapurbawadi, thane west",122.0,997,2,1
+rustomjee azziano,"majiwada, thane",155.0,848,2,1
+immensa by kalpataru,"kolshet road, thane",160.0,750,2,0
+piramal vaikunth,"balkum, thane",168.0,708,2,1
+dosti west county,"balkum, thane",114.99999999999999,650,2,1
+piramal vaikunth,"balkum, thane",123.0,568,2,1
+immensa by kalpataru,"kolshet road, thane",185.0,808,2,0
+piramal vaikunth,"balkum, thane",118.0,568,2,1
+immensa by kalpataru,"kolshet road, thane",130.0,600,2,0
+puraniks hometown,"kasar vadavali, thane",62.0,715,1,1
+lodha amara,"kolshet road, thane",169.0,950,3,1
+ashar edge,"pokhran 2, thane",290.0,1050,3,1
+co oprative housing society,"ghodbunder road, thane",89.0,648,2,0
+neelkanth palms,"kapurbawadi, thane west",140.0,900,2,1
+jeet,"kasheli, thane",32.0,885,2,0
+godrej emerald,"ghodbunder road, thane",106.0,721,2,0
+godrej emerald,"ghodbunder road, thane",109.00000000000001,721,2,0
+godrej emerald,"ghodbunder road, thane",108.0,721,2,0
+horizon,"kasar vadavali, thane",48.0,440,1,0
+vihang valley rio,thane west,85.0,650,2,0
+lodha stella,"majiwada, thane",399.0,2067,4,0
+piramal vaikunth,"balkum, thane",100.0,1050,2,1
+dosti west county,"balkum, thane",125.0,1550,2,1
+lodha stella,"majiwada, thane",299.0,1500,4,0
+sudarshan sky heights,"bhayandarpada, ghodbunder road",93.0,662,2,0
+sudarshan sky heights,"bhayandarpada, ghodbunder road",94.0,667,2,0
+sudarshan sky heights,"bhayandarpada, ghodbunder road",65.0,454,1,0
+sudarshan sky heights,"bhayandarpada, ghodbunder road",64.0,437,1,0
+courtyard by narang realty and the wadhwa group,"pokhran 2, thane",200.0,719,2,1
+lodha splendora,"ghodbunder road, thane",100.0,654,2,1
+hiranandani estate spenta,"hiranandani estate, thane",275.0,1500,3,0
+rosa bella,"kavesar, thane west",188.0,1350,3,1
+vasant vihar,thane west,77.0,600,1,0
+hiranandani estate barca,thane west,197.0,710,2,0
+hiranandani lake enclave,"hiranandani estate, thane",459.99999999999994,1433,3,1
+hiranandani eagleridge,"hiranandani estate, thane",231.0,710,2,0
+hiranandani delanna,"hiranandani estate, thane",197.0,702,2,1
+hiranandani rodas enclave,"hiranandani estate, thane",198.0,730,2,1
+hiranandani lake enclave,"hiranandani estate, thane",462.0,1325,3,1
+hiranandani delanna,"hiranandani estate, thane",195.0,700,2,1
+varun garden,"manpada, thane",160.0,1040,2,0
+hiranandani estate barca,thane west,202.0,706,2,0
+hiranandani estate cardinal,"hiranandani estate, thane",465.00000000000006,1324,3,1
+hiranandani estate cardinal,"hiranandani estate, thane",470.0,1324,3,1
+luxora crystal spires,"manpada, thane",400.0,1492,3,1
+luxora crystal spires,"manpada, thane",215.0,831,2,1
+serein by tata housing,"pokhran 2, thane",270.0,1137,3,1
+dosti maitri gardens,"pokhran 2, thane",125.0,560,2,0
+satgurus solitaire,"kasar vadavali, thane",125.0,650,2,0
+runwal garden city,"dhokali, thane west",72.5,430,1,1
+puraniks hometown,"kasar vadavali, thane",70.0,730,2,1
+rosa elite,"bhayandarpada, ghodbunder road",51.0,657,1,0
+haware citi,thane west,30.5,400,1,1
+haware citi,thane west,44.0,664,1,1
+puraniks hometown,"kasar vadavali, thane",49.5,480,1,1
+the icon by risland,"dhokali, thane west",125.0,673,2,1
+rajaram sukur enclave,"ghodbunder road, thane",60.0,400,1,0
+ashar metro towers,"vartak nagar, thane west",125.0,850,2,1
+paramsukh apartment,"bhaskar colony, thane west",185.0,763,2,0
+rustomjee azziano,"majiwada, thane",135.0,1000,2,1
+chandrakalla,"bhaskar colony, thane west",160.0,690,2,0
+lodha fortuna,"ath nagar, majiwada",125.0,1050,2,0
+ashar edge,"pokhran 2, thane",108.0,600,1,1
+ramshree,"naupada, thane west",170.0,705,2,0
+hiranandani eagleridge,"hiranandani estate, thane",229.99999999999997,710,2,0
+dosti vihar,"samata nagar, thane west",74.0,420,1,1
+shree swamikrupa phase 2,"dokali pada, thane west",99.0,650,2,0
+dosti vihar,"samata nagar, thane west",81.0,420,1,1
+dosti vihar,"samata nagar, thane west",148.0,700,2,1
+dosti vihar,"samata nagar, thane west",152.0,800,2,1
+dosti vihar,"samata nagar, thane west",155.0,720,3,1
+unnathi woods phase 3,thane west,62.0,650,1,0
+dosti vihar,"samata nagar, thane west",159.0,720,3,1
+regency towers,thane west,187.0,1550,3,1
+raunak unnathi woods phase 7,"ghodbunder road, thane",59.5,610,1,0
+raunak unnathi woods phase 7,"ghodbunder road, thane",52.5,610,1,0
+raunak unnathi woods phase 7,"ghodbunder road, thane",64.0,630,1,0
+vasant vihar society,"vasant vihar, thane west",125.0,650,2,0
+the icon by risland,"dhokali, thane west",150.0,1250,2,1
+hiranandani lake enclave,"hiranandani estate, thane",419.00000000000006,1521,3,1
+neel kanth,"pokhran 2, thane",68.0,311,1,0
+kalpataru sunrise,"balkum, thane",160.0,779,2,1
+hiranandani the walk,"hiranandani estate, thane",95.0,630,1,1
+piramal vaikunth,"balkum, thane",124.0,585,2,1
+one hiranandani park,"hiranandani estate, thane",163.0,749,2,1
+immensa by kalpataru,"kolshet road, thane",130.0,1050,2,0
+gala pride presidency luxuria,"manpada, thane",155.0,1250,3,0
+penrith chs,"hiranandani estate, thane",98.0,550,1,0
+one hiranandani park,"hiranandani estate, thane",158.0,550,2,1
+rustomjee azziano,"majiwada, thane",143.0,848,2,1
+hiranandani lavinia,"hiranandani estate, thane",91.0,421,1,1
+kavyadhara residential complex,thane west,120.0,1100,2,0
+raymond realty ten x habitat,"pokhran 2, thane",155.0,635,2,0
+the icon by risland,"dhokali, thane west",150.0,775,2,1
+cosmos classique,"patlipada, thane west",113.99999999999999,640,2,1
+arihant aarohi,"padle gaon, thane",70.0,950,2,0
+bhoomi acres,"hiranandani estate, thane",75.0,750,1,1
+signature residency,"patlipada, thane west",138.0,1120,2,0
+lalani residency,"ghodbunder road, thane",95.0,950,2,1
+crown thane lodha quality homes,"majiwada, thane",94.0,503,2,1
+crown thane lodha quality homes,"majiwada, thane",96.0,503,2,1
+piramal vaikunth,"balkum, thane",110.00000000000001,529,2,1
+asawari apartments,"vartak nagar, thane west",125.0,980,2,0
+rosa elite,"bhayandarpada, ghodbunder road",52.0,650,1,0
+kalpataru paramount,"balkum, thane",137.0,1100,2,0
+sheth vasant lawns,"majiwada, thane",250.0,1121,3,0
+ashar axis,"majiwada, thane",99.0,462,1,0
+risha vistas,"kavesar, thane west",75.0,680,1,0
+lodha splendora,"ghodbunder road, thane",135.0,952,3,1
+unnati woods phase 6,thane west,98.0,850,2,0
+pednekar society,"charai, thane west",130.0,600,2,0
+orovia phase 1,"hiranandani estate, thane",138.0,1000,2,1
+orovia phase 1,"hiranandani estate, thane",89.0,600,1,1
+co operative housing society,"kasar vadavali, thane",35.0,240,1,0
+lodha sterling,thane west,310.0,1266,3,1
+vasant vihar society,"vasant vihar, thane west",77.0,570,1,0
+lodha amara,"kolshet road, thane",82.0,551,2,0
+lodha amara,"kolshet road, thane",71.0,446,1,1
+lodha amara,"kolshet road, thane",85.0,551,2,0
+lodha amara,"kolshet road, thane",124.0,626,2,0
+co operative housing society,"ghantali, thane west",85.0,400,1,0
+hiranandani estate canary,"patlipada, thane west",250.0,1200,3,0
+hiranandani lake enclave,"hiranandani estate, thane",420.0,1190,3,1
+vijay galaxy,"vijay nagari, thane west",82.0,669,1,1
+the icon by risland,"dhokali, thane west",235.0,1031,3,1
+hiranandani eagleridge,"hiranandani estate, thane",355.0,1093,3,0
+madhav palacia,"hiranandani estate, thane",100.0,829,2,1
+immensa by kalpataru,"kolshet road, thane",225.0,944,3,0
+the icon by risland,"dhokali, thane west",120.0,670,2,1
+dosti west county,"balkum, thane",120.0,650,2,1
+co operative housing society,"panch pakhadi, thane west",105.0,480,1,0
+puraniks hometown,"kasar vadavali, thane",47.0,400,1,1
+rdc pinewood,"kasar vadavali, thane",90.0,650,2,0
+godrej emerald,"ghodbunder road, thane",112.00000000000001,721,2,0
+vihang valley rio,thane west,60.0,440,1,0
+dev ashoka,thane west,160.0,739,2,0
+rajnigandha upvan,"gawand baug, thane west",135.0,720,2,0
+serein by tata housing,"pokhran 2, thane",110.00000000000001,470,1,1
+bay house,"vasant vihar, thane west",150.0,980,2,0
+rustomjee athena,"majiwada, thane",131.0,1050,2,0
+mahesh kamdhenu prasad chsl,"panch pakhadi, thane west",125.0,450,1,0
+dosti vihar,"samata nagar, thane west",166.0,720,3,1
+co operative housing society,"khopat, thane west",229.99999999999997,1195,3,0
+piramal vaikunth,"balkum, thane",90.0,454,2,1
+jvms corner stone,"naupada, thane west",180.0,730,2,0
+dosti west county,"balkum, thane",123.0,717,2,1
+hiranandani the walk obelia,"hiranandani estate, thane",159.0,900,2,0
+rustomjee aurelia,"majiwada, thane",126.0,687,2,1
+acme oakwood and ashwood,thane west,145.0,800,2,0
+one hiranandani park,"hiranandani estate, thane",360.0,1180,3,1
+dosti vihar,"samata nagar, thane west",178.0,900,3,1
+ashar metro towers,"vartak nagar, thane west",92.0,650,1,1
+rustomjee azziano,"majiwada, thane",145.0,838,2,1
+lodha paradise,"ath nagar, majiwada",105.0,623,2,1
+vasant vihar society,"vasant vihar, thane west",75.0,600,1,0
+prestige gardens,"panch pakhadi, thane west",175.0,725,2,0
+haware citi,thane west,43.0,560,1,1
+haware citi,thane west,65.0,902,2,1
+haware citi,thane west,42.0,664,1,1
+rumah bali,"ghodbunder road, thane",57.0,450,1,1
+hiranandani eagleridge,"hiranandani estate, thane",225.0,803,2,0
+rajaram sukur enclave,"ghodbunder road, thane",62.0,660,1,0
+dosti vihar,"samata nagar, thane west",98.0,500,2,1
+raunak glory,"brahmand, thane west",245.00000000000003,1800,3,0
+vijay vatika,"kavesar, thane west",65.5,625,1,0
+kanakia niharika,"pokhran 2, thane",183.0,1300,3,1
+soham gardens,"manpada, thane",170.0,1007,3,1
+vasant leela,"waghbil, thane west",80.0,630,2,0
+raymond realty ten x habitat,"pokhran 2, thane",155.0,690,2,0
+soham parijat gardens,thane west,53.5,500,1,1
+kipl morya,"kasar vadavali, thane",55.0,680,1,1
+vihang valley phase 2,thane west,75.0,650,2,0
+vihang hills,"owale, ghodbunder road",45.0,400,1,1
+vihang valley phase 2,thane west,53.0,460,1,0
+raymond realty ten x habitat,"pokhran 2, thane",165.0,1220,2,0
+serein by tata housing,"pokhran 2, thane",165.0,1000,2,1
+rosa oasis,"hiranandani estate, thane",128.0,706,2,1
+hiranandani estate cardinal,"hiranandani estate, thane",200.0,902,3,1
+one hiranandani park,"hiranandani estate, thane",400.0,1433,3,1
+hiranandani eagleridge,"hiranandani estate, thane",165.0,710,2,0
+crown thane lodha quality homes,"majiwada, thane",53.0,317,1,1
+lodha amara,"kolshet road, thane",135.0,735,2,1
+coral heights,"kavesar, thane west",114.99999999999999,965,2,1
+sahil pride residency,thane west,40.0,290,1,0
+crown thane lodha quality homes,"majiwada, thane",51.01,317,1,1
+hiranandani rodas enclave,"hiranandani estate, thane",190.0,1040,2,1
+hiranandani estate paloma,"hiranandani estate, thane",165.0,999,2,1
+runwal garden city,"dhokali, thane west",98.0,1005,2,1
+the walk ventana,thane west,145.0,925,3,0
+the walk ventana,thane west,140.0,921,3,0
+cosmos paradise,"pokhran 2, thane",120.0,1100,2,1
+raunak unnathi woods phase 1 and 2,"anand nagar, thane",85.0,600,2,1
+cosmos park,"kavesar, thane west",130.0,1085,3,0
+vijay oswal park,"pokhran 2, thane",75.0,650,1,1
+hiranandani jasper,"hiranandani estate, thane",170.0,1050,2,0
+lok upvan phase 2,"vasant vihar, thane west",140.0,900,2,0
+raunak unnathi woods phase 7,"ghodbunder road, thane",49.5,610,1,0
+regency towers,thane west,135.0,1150,2,1
+jvm twin tower,"anand nagar, thane",62.0,744,1,0
+kanakia niharika,"pokhran 2, thane",160.0,1035,2,1
+kapleshwara pinnacle gloria,"kolshet road, thane",109.00000000000001,681,2,0
+rosa oasis,"hiranandani estate, thane",132.0,750,2,1
+rosa royale,"hiranandani estate, thane",120.0,1005,2,1
+everest world apartment,thane west,95.0,570,2,0
+prathana chs,"dhobi ali, thane west",120.0,610,2,0
+raymond realty ten x habitat,"pokhran 2, thane",142.0,672,2,0
+kavyadhara residential complex,"dhokali, thane west",75.0,680,1,0
+lodha amara,"kolshet road, thane",72.0,900,1,1
+wadhwa life style homes,"kolshet road, thane",75.0,800,1,0
+wadhwa life style homes,"kolshet road, thane",74.0,800,1,0
+gulmohar chs,"gawand baug, thane west",136.0,763,2,0
+everest world apartment,"dhokali, thane west",90.0,900,2,0
+uma acropolis and neopolis,"hiranandani estate, thane",82.0,599,2,1
+uma acropolis and neopolis,"hiranandani estate, thane",83.0,935,2,1
+dosti vihar,"samata nagar, thane west",73.0,420,1,1
+dosti vihar,"samata nagar, thane west",75.0,420,1,1
+crown thane lodha quality homes,"majiwada, thane",90.0,502,2,1
+piramal vaikunth,"balkum, thane",109.00000000000001,560,2,1
+co operative housing society,"panch pakhadi, thane west",155.0,630,2,0
+polaris apartments,"hiranandani estate, thane",145.0,1100,2,0
+lodha casa ultima,"chirak nagar, thane west",105.0,822,2,1
+jangid galaxy,"kavesar, thane west",149.0,1020,3,0
+broadway chs,"hiranandani estate, thane",240.0,1100,3,0
+lodha stella,"majiwada, thane",299.0,1498,3,0
+immensa by kalpataru,"kolshet road, thane",229.99999999999997,1750,3,0
+raunak unnathi woods phase 7,"ghodbunder road, thane",53.0,400,1,0
+raunak unnathi woods phase 5,"ghodbunder road, thane",49.0,600,1,0
+polaris apartments,"hiranandani estate, thane",140.0,756,2,0
+the icon by risland,"dhokali, thane west",148.0,775,2,1
+sheth avalon,"laxmi nagar, thane west",212.0,1280,2,1
+panchpakhadi,"panch pakhadi, thane west",250.0,1280,3,0
+lodha amara,"kolshet road, thane",72.0,472,1,1
+hiranandani solitaire,"hiranandani estate, thane",86.0,405,1,0
+lodha casa viva,"majiwada, thane",120.0,705,2,1
+lodha amara,"kolshet road, thane",130.0,426,2,1
+lodha amara,"kolshet road, thane",134.0,735,2,1
+lodha amara,"kolshet road, thane",170.0,950,3,1
+everest world apartment,thane west,95.0,560,2,0
+lodha casa viva,"majiwada, thane",78.0,454,1,1
+signature residency,"patlipada, thane west",145.0,700,2,0
+ashar axis,"majiwada, thane",145.0,611,2,0
+larkins pride palms,"kolshet, thane west",140.0,654,2,1
+highland haven,"balkum, thane",84.0,450,1,1
+orovia phase 1,"hiranandani estate, thane",75.0,650,1,1
+v r supernal garden,"dhokali, thane west",110.00000000000001,1100,2,0
+the icon by risland,"dhokali, thane west",120.0,950,2,1
+siddhi highland gardens,"dhokali, thane west",130.0,1100,2,1
+vakratunda residency,"dhokali, thane west",72.0,470,1,0
+lodha amara,"kolshet road, thane",100.0,672,2,1
+kalpataru sunrise,"balkum, thane",238.0,1658,3,1
+immensa by kalpataru,"kolshet road, thane",385.0,1750,4,0
+rosa oasis,"hiranandani estate, thane",129.0,1015,2,1
+orovia phase 1,"hiranandani estate, thane",67.0,444,1,1
+yash shilpa chs,"naupada, thane west",225.0,1800,2,0
+soham tropical lagoon,"kavesar, thane west",225.99999999999997,1690,3,1
+rajaram sukur sapphire,"anand nagar, thane",60.0,640,1,0
+raunak unnathi woods phase 5,"ghodbunder road, thane",68.0,810,2,0
+raunak unnathi woods phase 7,"ghodbunder road, thane",60.0,610,1,0
+raunak unnathi woods phase 6,thane west,90.0,950,2,1
+the icon by risland,"dhokali, thane west",118.0,673,2,1
+atlantis,"panch pakhadi, thane west",130.0,555,1,0
+serein by tata housing,"pokhran 2, thane",172.0,1050,2,1
+crown thane lodha quality homes,"majiwada, thane",56.0,317,1,1
+lodha luxuria,"majiwada, thane",155.0,1050,2,1
+co-opertive society,"panch pakhadi, thane west",175.0,725,2,0
+lodha amara,"kolshet road, thane",130.0,735,2,1
+lodha amara,"kolshet road, thane",106.0,640,2,1
+raymond realty ten x habitat,"pokhran 2, thane",145.0,700,2,0
+sheth avalon,"laxmi nagar, thane west",315.0,1090,3,1
+kalpataru paramount,"balkum, thane",152.0,711,2,0
+dosti west county,"balkum, thane",114.99999999999999,670,2,1
+dosti west county,"balkum, thane",112.00000000000001,640,2,1
+vijay galaxy,"vijay nagari, thane west",72.0,650,1,1
+raunak unnathi woods phase 6,thane west,86.51,950,2,1
+raunak unnathi woods phase 7,"ghodbunder road, thane",61.0,610,1,0
+raunak unnathi woods phase 7,"ghodbunder road, thane",62.0,610,1,0
+dosti imperia,"manpada, thane",175.0,1220,2,1
+lodha amara,"kolshet road, thane",70.0,690,1,1
+lodha sterling,"kolshet road, thane",190.0,1400,2,1
+lodha sterling,"kolshet road, thane",219.0,1650,3,1
+cosmos nest,"dhokali, thane west",75.0,710,1,1
+everest world apartment,thane west,99.0,950,2,0
+lodha amara,"kolshet road, thane",82.0,900,2,1
+acme ozone,"manpada, thane",180.0,980,3,1
+dosti imperia,"manpada, thane",170.0,1220,2,1
+metropolis aquaris,"kasar vadavali, thane",89.0,675,2,0
+maithili pride,"vartak nagar, thane west",145.0,636,2,0
+tirumala estate,"kalher, thane west",22.4,555,1,1
+hubtown greenwood,"vartak nagar, thane west",140.0,800,3,1
+vrindavan society,thane west,75.0,560,1,0
+rosa gardenia,"kasar vadavali, thane",77.0,780,2,1
+tirumala estate,"kalher, thane west",30.6,765,2,1
+rosa gardenia,"kasar vadavali, thane",61.0,640,1,1
+ekdanta new suraj tower,"vartak nagar, thane west",115.99999999999999,1000,2,0
+shree saibaba panchpakhadi jewel,"panch pakhadi, thane west",147.0,600,2,0
+cosmos jewels,"anand nagar, thane",92.0,950,2,1
+rustomjee aurelia,"majiwada, thane",127.0,691,2,1
+rosa gardenia,"kasar vadavali, thane",87.0,880,2,1
+puraniks tokyo bay,"kasar vadavali, thane",35.0,350,1,0
+hiranandani delanna,"hiranandani estate, thane",150.0,702,2,1
+crown thane lodha quality homes,"majiwada, thane",50.0,317,1,1
+lodha luxuria,"majiwada, thane",250.0,1850,3,1
+lok upvan phase 2,"vasant vihar, thane west",120.0,900,2,0
+vrindavan society,thane west,88.0,745,2,0
+tirumala estate,"kalher, thane west",20.8,520,1,1
+tirumala estate,"kalher, thane west",13.99,350,1,1
+tirumala estate,"kalher, thane west",20.75,520,1,1
+tirumala estate,"kalher, thane west",29.78,745,2,1
+tirumala estate,"kalher, thane west",22.99,575,1,1
+raymond realty ten x habitat,"pokhran 2, thane",141.0,670,2,0
+everest world apartment,"dhokali, thane west",89.0,1050,2,0
+vasant vihar society,"vasant vihar, thane west",85.5,600,1,0
+crown thane lodha quality homes,"majiwada, thane",57.0,450,1,1
+laabh varadvinayak,"dhokali, thane west",85.0,650,2,0
+vittoria apartments,"hiranandani estate, thane",169.0,780,2,0
+vittoria apartments,"hiranandani estate, thane",178.0,999,2,0
+vijay garden,"kavesar, thane west",374.0,2900,3,1
+lodha amara,"kolshet road, thane",67.01,472,1,1
+ramshree,"naupada, thane west",120.0,550,1,0
+pushpanjali residency phase 3,"owale, ghodbunder road",50.0,430,1,0
+lodha amara,"kolshet road, thane",66.0,472,1,1
+mahavir kalpavruksha,"ghodbunder road, thane",80.0,610,2,1
+orovia phase 1,"hiranandani estate, thane",157.0,1100,3,1
+dosti west county,"balkum, thane",100.0,700,2,1
+akanksha pioneer,"vartak nagar, thane west",95.0,515,2,0
+vijay annex,"vijay nagari, thane west",55.0,600,1,0
+jvm veda,"kasar vadavali, thane",63.0,610,1,0
+raunak unnathi woods phase 6,thane west,86.0,950,2,1
+akanksha pioneer,"vartak nagar, thane west",80.0,460,1,0
+lodha sterling,thane west,199.0,1350,2,1
