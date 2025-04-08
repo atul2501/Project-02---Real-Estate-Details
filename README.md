@@ -56,12 +56,12 @@ Also make sure to download and install the [ChromeDriver](https://sites.google.c
 
 1. Clone this repo
 2. Install the requirements
-3. Open and run `99acerV1.ipynb` using Jupyter Notebook  
+3. Open and run `restructured_99acer.ipynb` using Jupyter Notebook  
    OR  
    Convert it to a Python script and run from terminal
 
 ```bash
-jupyter notebook 99acerV1.ipynb
+jupyter notebook restructured_99acer.ipynb
 ```
 
 ---
