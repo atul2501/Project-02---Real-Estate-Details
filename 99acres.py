@@ -259,7 +259,7 @@ df_properties = (
 		location=lambda df_: (
 			df_
 			.location
-			.str.replace("chennai", "")
+			.str.replace("Thane", "")
 			.str.strip()
 			.str.replace(",$", "", regex=True)
 			.str.split("in")
